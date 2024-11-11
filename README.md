@@ -33,4 +33,4 @@ To use the support chatbot, follow these steps:
 3. **Try to answer question with a single or few words (keep it simple). Otherwise, the chatbot will initiate it's fallback intent and end the call**.
 4. **You can also perform a `Voice Call` with the chatbot, but ensure your voice is clear.**
 
-Lastly, this was a fun project 🎉! Feel free to play around with it, but expect things to break if you play too hard 🤣
+Lastly, this was a fun project 🎉! Feel free to play around with it, but expect things to break if you play too hard 🤣.
