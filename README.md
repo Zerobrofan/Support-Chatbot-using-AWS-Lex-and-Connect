@@ -33,4 +33,63 @@ To use the support chatbot, follow these steps:
 3. **Try to answer question with a single or few words (keep it simple). Otherwise, the chatbot will initiate it's fallback intent and end the call**.
 4. **You can also perform a `Voice Call` with the chatbot, but ensure your voice is clear.**
 
-Lastly, this was a fun project 🎉! Feel free to play around with it, but expect things to break if you play too hard 🤣.
+## 📖 Scenario: Booking a Car Rental
+This section showcases an example use case for the Lex chatbot, keep in mind you can use it to book a hotel in the same manner. 
+** NOTE ❗: Try to follow this conversation path closely otherwise the chatbot'll encounter an error end the convo. **
+
+```yaml
+Customer has joined the chat  
+
+System Message:  
+Welcome to Journey Grove! Whether you’re looking for the perfect hotel stay or a reliable car rental, our team is ready to help make your journey smooth and memorable.  
+
+Support Bot:  
+How can we help you today?  
+
+Customer:  
+I want to book a car  
+
+Support Bot:  
+In what city do you need to rent a car?  
+
+Customer:  
+New York  
+
+Support Bot:  
+What day do you want to start your rental?  
+
+Customer:  
+Tomorrow  
+
+Support Bot:  
+What day do you want to return the car?  
+
+Customer:  
+7 days from now.  
+
+Support Bot:  
+How old is the driver for this rental?  
+
+Customer:  
+32  
+
+Support Bot:  
+What type of car would you like to rent? Our most popular options are economy, midsize, and luxury.  
+
+Customer:  
+Economy  
+
+Support Bot:  
+Okay, I have you down for a Economy rental in New York from 2024-12-01 to 2024-12-07. Should I book the reservation?  
+
+Customer:  
+Yes, please.  
+
+System Message:  
+Thank you for choosing Journey Grove! We're glad to have helped with your travel plans. Safe travels, and we look forward to serving you again soon!  
+
+Chat has ended!  
+```
+---
+
+***Lastly, this was a fun project 🎉! Feel free to play around with it, but expect things to break if you play too hard 🤣.***
