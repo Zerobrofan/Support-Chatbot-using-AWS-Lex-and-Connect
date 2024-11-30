@@ -34,8 +34,8 @@ To use the support chatbot, follow these steps:
 4. **You can also perform a `Voice Call` with the chatbot, but ensure your voice is clear.**
 
 ## 📖 Scenario: Booking a Car Rental
-This section showcases an example use case for the Lex chatbot, keep in mind you can use it to book a hotel in the same manner. 
-** NOTE ❗: Try to follow this conversation path closely otherwise the chatbot'll encounter an error end the convo. **
+This section showcases an example use case for the Lex chatbot, keep in mind you can use it to book a hotel in the same manner. <br>
+***NOTE ❗: Try to follow this conversation path closely otherwise the chatbot'll encounter an error end the convo.***
 
 ```yaml
 Customer has joined the chat  
