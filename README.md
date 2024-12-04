@@ -14,14 +14,14 @@
 ## :hammer_and_wrench: Architecture:
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/2c98db9a-b610-4ce1-b99f-0be7680d3648" style="width: 80%;">
+  <img src="https://github.com/user-attachments/assets/3946deb7-d0bc-438f-9a3f-6f97f40c524d" style="width: 90%;">
 
 </div>
 
 ## 🎙 AWS Connect Flow
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/5909d942-2986-404d-943f-4b51fbf10e7d" style="width: 80%;">
+  <img src="https://github.com/user-attachments/assets/5909d942-2986-404d-943f-4b51fbf10e7d" style="width: 90%;">
   
 </div>
 
