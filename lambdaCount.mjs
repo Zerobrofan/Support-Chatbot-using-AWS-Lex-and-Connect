@@ -9,7 +9,7 @@ export const handler = async (event) => {
         return {
             statusCode: 200,
             headers: {
-                'Access-Control-Allow-Origin': 'https://d5z5n79osgism.cloudfront.net',
+                'Access-Control-Allow-Origin': 'CLOUDFRONT_DISTRIBUTION',
                 'Access-Control-Allow-Headers': 'Content-Type',
                 'Access-Control-Allow-Methods': 'GET,OPTIONS'
             },
@@ -31,7 +31,7 @@ export const handler = async (event) => {
         return {
             statusCode: 200,
             headers: {
-                'Access-Control-Allow-Origin': 'https://d5z5n79osgism.cloudfront.net',
+                'Access-Control-Allow-Origin': 'CLOUDFRONT_DISTRIBUTION',
                 'Access-Control-Allow-Headers': 'Content-Type',
                 'Access-Control-Allow-Methods': 'GET,OPTIONS',
                 'Content-Type': 'application/json'
@@ -43,7 +43,7 @@ export const handler = async (event) => {
         return {
             statusCode: 500,
             headers: {
-                'Access-Control-Allow-Origin': 'https://d5z5n79osgism.cloudfront.net',
+                'Access-Control-Allow-Origin': 'CLOUDFRONT_DISTRIBUTION',
                 'Access-Control-Allow-Headers': 'Content-Type',
                 'Access-Control-Allow-Methods': 'GET,OPTIONS',
                 'Content-Type': 'application/json'
