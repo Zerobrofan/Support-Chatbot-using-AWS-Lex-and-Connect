@@ -14,7 +14,7 @@
 ## :hammer_and_wrench: Architecture:
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/3946deb7-d0bc-438f-9a3f-6f97f40c524d" style="width: 90%;">
+  <img src="https://github.com/user-attachments/assets/dcc56de8-d184-4dbc-aa5f-db25eee21139" style="width: 90%;">
 
 </div>
 
