@@ -11,6 +11,12 @@
 
 </div>
 
+## 🎞 Project Video 
+
+
+https://github.com/user-attachments/assets/cb8facb7-ff2b-47ad-a5f8-d02117d6130c
+
+
 ## :hammer_and_wrench: Architecture:
 <div align="center">
 
